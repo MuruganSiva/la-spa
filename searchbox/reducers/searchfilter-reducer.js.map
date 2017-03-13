@@ -1,0 +1,1 @@
+{"version":3,"file":"searchfilter-reducer.js","sourceRoot":"","sources":["searchfilter-reducer.ts"],"names":[],"mappings":";AAKa,2BAAmB,GACQ,UAAC,KAAwB,EACxB,MAAc;IAEvD,MAAM,CAAA,CAAC,MAAM,CAAC,IAAI,CAAC,CAAA,CAAC;QAChB,KAAK,gBAAgB;YACjB,MAAM,CAAC,MAAM,CAAC,OAAO,CAAC;QAC1B;YACI,MAAM,CAAC,KAAK,CAAC;IACrB,CAAC;AACD,CAAC,CAAC"}

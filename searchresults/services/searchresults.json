@@ -1,0 +1,17 @@
+[
+    {
+        "itemid": "1",
+        "title" : "Title 1",
+        "teaser" : "Teaser 1"
+    },
+    {
+       "itemid": "2",
+       "title" : "Title 2",
+       "teaser" : "Teaser 2"
+    },
+    {
+       "itemid": "3",
+       "title" : "Title 3",
+       "teaser" : "Teaser 3"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "filterId" : "1",
+        "filterName" : "Arbitration"
+    },
+    {
+        "filterId" : "2",
+        "filterName" : "Finance"
+    },
+    {
+        "filterId" : "3",
+        "filterName" : "Marketing"
+    }
+]

@@ -1,0 +1,1 @@
+{"version":3,"file":"wflist-directive.js","sourceRoot":"","sources":["wflist-directive.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAA4C,eAAe,CAAC,CAAA;AAK5D;IACE,yBAAmB,gBAAkC;QAAlC,qBAAgB,GAAhB,gBAAgB,CAAkB;IAAI,CAAC;IAJ5D;QAAC,gBAAS,CAAC;YACT,QAAQ,EAAE,cAAc;SACzB,CAAC;;uBAAA;IAGF,sBAAC;AAAD,CAAC,AAFD,IAEC;AAFY,uBAAe,kBAE3B,CAAA"}
