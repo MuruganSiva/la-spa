@@ -1,0 +1,7 @@
+node_modules/
+typings/
+.typingsrc
+app/**/*.js
+app/**/*.map
+dist/
+.vscode/
